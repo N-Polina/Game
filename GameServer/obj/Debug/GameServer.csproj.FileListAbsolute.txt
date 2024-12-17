@@ -1,0 +1,7 @@
+D:\универ\4 курс\7 семестр\KyrsahPSP\GameServer\bin\Debug\GameServer.exe.config
+D:\универ\4 курс\7 семестр\KyrsahPSP\GameServer\bin\Debug\GameServer.exe
+D:\универ\4 курс\7 семестр\KyrsahPSP\GameServer\bin\Debug\GameServer.pdb
+D:\универ\4 курс\7 семестр\KyrsahPSP\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+D:\универ\4 курс\7 семестр\KyrsahPSP\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\универ\4 курс\7 семестр\KyrsahPSP\GameServer\obj\Debug\GameServer.exe
+D:\универ\4 курс\7 семестр\KyrsahPSP\GameServer\obj\Debug\GameServer.pdb
